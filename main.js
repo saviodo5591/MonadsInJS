@@ -1,4 +1,3 @@
-const fetch = require('axios');
 const Bacon = require('baconjs');
 const translate = require('google-translate-api');
 

@@ -10,7 +10,6 @@
   "author": "Joshuah Charney",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
     "baconjs": "^2.0.5",
     "google-translate-api": "^2.3.0"
   }
